@@ -2,10 +2,6 @@
 ![](https://github.com/ShubSi26/Pay-Now/blob/main/images/default.jpg)
 Deployment - https://paynow.devshubh.live
 
-More images - [Click Here](https://github.com/ShubSi26/Pay-Now/tree/main/images)
-> [!WARNING]
-> Don't enter any personal information.
-
 # Technology Used
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,vite,ts,js,npm,docker " /> <img src = "https://jwt.io/img/pic_logo.svg" width = 50px> <img src = "https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" width = 50px>
 
