@@ -8,15 +8,7 @@ Deployment - https://paynow.devshubh.live
 |`mongodb`|`express`|`react`|`nodejs`|`tailwindcss`|`vite`|`typescript`|`javascript`|`Docker`|`JWT`|`ZOD`|
 |---|---|---|---|---|---|---|---|---|---|---|
 
-# Local Setup
-- ## By CLI
-  ```bash
-  git clone https://github.com/ShubSi26/Pay-Now.git
-  ```
-  In home folder, run
-  ```bash
-  build
-  ```
+
 # Key Features
 - ## Authentication
   The user can create an account and perform operations such as logging in and signing up. Upon logging in or signing up, the user will be given a JWT key for authentication purposes.
@@ -35,43 +27,3 @@ Deployment - https://paynow.devshubh.live
   2. **Transaction Section**: In this section, the user can see all the money sent and received from other people, along with details such as transaction ID (txid), sender and receiver, amount, date, and time.
 - ## Search People
   The user can search for other people using their name or phone number. In the search section, the user needs to select either "name" or "number" and enter the corresponding details. The search results will then appear. The user also has the option to send money to the searched individuals directly from the search page.
-
-Update 1: commit placeholder
-
-Update 2: commit placeholder
-
-Update 3: commit placeholder
-
-Update 4: commit placeholder
-
-Update 5: commit placeholder
-
-Update 6: commit placeholder
-
-Update 7: commit placeholder
-
-Update 8: commit placeholder
-
-Update 9: commit placeholder
-
-Update 10: commit placeholder
-
-Update 1: commit placeholder
-
-Update 2: commit placeholder
-
-Update 3: commit placeholder
-
-Update 4: commit placeholder
-
-Update 5: commit placeholder
-
-Update 6: commit placeholder
-
-Update 7: commit placeholder
-
-Update 8: commit placeholder
-
-Update 9: commit placeholder
-
-Update 10: commit placeholder
